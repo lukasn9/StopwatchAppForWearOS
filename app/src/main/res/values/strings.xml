@@ -5,6 +5,4 @@
     values-round/strings.xml for round devices.
     -->
     <string name="default_time" translatable="false">00:00:00:00</string>
-    <string name="tile_label" translatable="false">Example tile</string>
-    <string name="complication_label" translatable="false">Example complication</string>
 </resources>
